@@ -17,10 +17,8 @@ The regular expression displayed bellow will help us separate the "username", @ 
 - [Character Classes](#character-classes)
 - [Grouping and Capturing](#grouping-and-capturing)
 - [Bracket Expressions](#bracket-expressions)
-- [Greedy and Lazy Match](#greedy-and-lazy-match)
-- [Boundaries](#boundaries)
-- [Back-references](#back-references)
-- [Look-ahead and Look-behind](#look-ahead-and-look-behind)
+- [Escaped Characters](#escaped-characters)
+
 
 ## Regex Components
 
